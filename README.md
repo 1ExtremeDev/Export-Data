@@ -5,7 +5,9 @@ I am ExtremeDev, you can see more about me in my main profile page.
 # Disclaimer
 
 **This tool is created for educational purpose, and it was made only to show the usage of the used function.**
+
 **I take no responsability of people usage by this.**
+
 **Using this tool for Illegal purposes is forbidden, and punished with jail in case of a search.**
 
 # How to use this
