@@ -43,7 +43,10 @@ Now open the /dist folder and send the executable to your victim!
 
 # Contact
 
-Email: extremedevbusiness@protonmail.com
+Email: extremedevbusiness@protonmail.com 
+
 Discord: ExtremeDev#5605
+
 Twitter: ExtremeDevAlt
+
 Instagram: ExtremeDev_Alt
